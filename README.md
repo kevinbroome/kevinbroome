@@ -1,5 +1,5 @@
-<div  id="header" align="center" style="position:absolute;">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2040748740976150212/0B00949389889A7630D12BAAD84D976192951FEC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100%"/>
+<div  id="header" align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2040748740976150212/0B00949389889A7630D12BAAD84D976192951FEC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"/>
 </div>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -12,7 +12,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight&width=100%)
+<div align="center">
+  ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight width="100%")
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000)
 
