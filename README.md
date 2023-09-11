@@ -1,5 +1,5 @@
 <div id="header" align="center" style="width: 100%; height: 200px; overflow: hidden;">
-  <img src="https://media.giphy.com/media/RLj6dWiZoK2izOGVzs/giphy.gif" width="100%" height="200px" style="width:100%; height:200px;object-fit:cover;"/>
+  <img src="https://media.giphy.com/media/RLj6dWiZoK2izOGVzs/giphy.gif" style="width:100%; height:200px; object-fit:cover;"/>
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=00FFFF&center=true&multiline=true&repeat=false&width=100%&height=100&lines=Eat;Sleep;Code" alt="Typing SVG" />
