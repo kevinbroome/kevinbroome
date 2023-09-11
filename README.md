@@ -1,4 +1,4 @@
-<div class="head-banner" id="header" align="center" style="width: 100%; max-height: 200px; overflow: hidden;">
+<div  id="header" align="center" style="width: 100%; height: 200px; overflow: hidden;">
   <img src="https://media.giphy.com/media/RLj6dWiZoK2izOGVzs/giphy.gif" width="100%"/>
 </div>
 
