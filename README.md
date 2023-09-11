@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 <div align="center">
-  ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight width="100%")
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight" width="100%"/>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000)
