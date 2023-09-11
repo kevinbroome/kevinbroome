@@ -12,10 +12,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-![image]({https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white})
-![image]({https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white})
-![image]({https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white})
-![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight})
+![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![image](https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white)
+![image](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kevinbroome&theme=radical&no-frame=true&no-bg=true&margin-w=4&width=100%)
 
