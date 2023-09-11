@@ -1,3 +1,3 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=00FFFF&center=true&multiline=true&repeat=false&width=100&height=100&lines=Eat;Sleep;Code" alt="Typing SVG" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinbroome&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+<img align="left" src="https://camo.githubusercontent.com/bf0fe576d4c291614aa8957bab283611fadef2f333af94fc599b5871da19bdb9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7375706572736f6e6963313939392673686f775f69636f6e733d7472756526686964655f626f726465723d74727565267468656d653d6461726b" alt="SuperSonic1999's Github Stats" width="60%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kevinbroome&amp;show_icons=true&amp;hide_border=true&amp;theme=dark" style="max-width: 100%;">
