@@ -21,4 +21,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinbroome&repo=github-readme-stats&theme=tokyonight)
