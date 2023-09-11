@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kevinbroome&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kevinbroome&theme=radical&no-frame=true&no-bg=true&margin-w=4&width=100%)
 
 ![Fire Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinbroome&theme=dark&hide_border=true&theme=tokyonight)
 
