@@ -11,10 +11,8 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kevinbroome&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbroome&show_icons=true&theme=tokyonight&border_radius=20&border_color=000&hide=stars,contribs)
+![Fire Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinbroome&theme=dark&hide_border=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000)
-
-![Fire Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinbroome&theme=dark&hide_border=true)<br/>
 
 
