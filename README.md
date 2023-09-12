@@ -24,7 +24,7 @@
   <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
 </div>
 
-<div align="left">
+<div align="left" style="float: left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000" width="50%" style="float: left">
 </div>
 
