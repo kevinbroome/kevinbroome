@@ -28,11 +28,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000" align="left" width="50%" style="float: left;">
 
 <div align="right" width="50%" style="float: right;">
-  <br>
   <p>💼 What I Do:</p>
     <p>✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.</p>
     <p>✨ Breathing life into websites with interactive elements and seamless UX.</p>
     <p>✨ Exploring the exciting possibilities of Evolution X to build innovative features that shine.</p>
+  <br>
   <br>
   <p>🌈 What Sets Me Apart:</p>
     <p>🚀 A genuine passion for web development and a solid foundation in JavaScript, HTML, and CSS.</p>
