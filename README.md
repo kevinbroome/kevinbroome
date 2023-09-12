@@ -2,7 +2,7 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/2040748740976150212/0B00949389889A7630D12BAAD84D976192951FEC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
