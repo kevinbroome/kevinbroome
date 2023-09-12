@@ -24,21 +24,26 @@
 </div>
 
 <div align="right" width="50%">
-  <p>🌟 Passionate Junior Web Developer 🌟</p>
-  JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast
-  
-  Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.
-  
-  💼 What I Do:
-  ✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.
-  ✨ Breathing life into websites with interactive elements and seamless UX.
-  ✨ Exploring the exciting possibilities of Evolution X to build innovative features that shine.
-  
-  🌈 What Sets Me Apart:
-  🚀 A genuine passion for web development and a solid foundation in JavaScript, HTML, and CSS.
-  🎨 Creativity that fuels my designs, making interfaces not only functional but visually enchanting.
-  💡 An insatiable thirst for learning, always eager to master new technologies and techniques.
-  🤝 Collaboration is my middle name—I thrive in team environments and love sharing my ideas to create web wonders.
-  
-  🚀 Ready to craft the future of the web together? Let's connect and explore the endless possibilities! 👩💻👨💻 #WebDeveloper #JavaScriptWizard #EvolutionXEnthusiast
+  <h2>🌟 Passionate Junior Web Developer 🌟</h2>
+  <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
+  <br>
+  <br>
+  <h3>Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h3>
+  <br>
+  <p>💼 What I Do:</p>
+  <ul>
+    <li>✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.</li>
+    <li>✨ Breathing life into websites with interactive elements and seamless UX.</li>
+    <li>✨ Exploring the exciting possibilities of Evolution X to build innovative features that shine.</li>
+  </ul>
+  <br>
+  <p>🌈 What Sets Me Apart:</p>
+  <ul>
+    <li>🚀 A genuine passion for web development and a solid foundation in JavaScript, HTML, and CSS.</li>
+    <li>🎨 Creativity that fuels my designs, making interfaces not only functional but visually enchanting.</li>
+    <li>💡 An insatiable thirst for learning, always eager to master new technologies and techniques.</li>
+    <li>🤝 Collaboration is my middle name—I thrive in team environments and love sharing my ideas to create web wonders.</li>
+  </ul>
+  <h2>🚀 Ready to craft the future of the web together? Let's connect and explore the endless possibilities!</h2>
+  <p>👩💻👨💻 #WebDeveloper #JavaScriptWizard #EvolutionXEnthusiast</p>
 </div>
