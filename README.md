@@ -19,15 +19,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight" width="100%"/>
 </div>
 
-<div align="right" style="float: right;">
+<div align="center">
   <h2>🌟 Passionate Junior Web Developer 🌟</h2>
   <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
+  <h4>Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h4>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000" align="left" width="50%" style="float: left;">
 
 <div align="right" width="50%" style="float: right;">
-  <h4>Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h4>
   <br>
   <p>💼 What I Do:</p>
     <p>✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.</p>
