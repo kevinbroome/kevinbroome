@@ -24,9 +24,7 @@
   <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
 </div>
 
-<div align="left" style="float: left;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000" width="50%" style="float: left;">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000" align="left" width="50%" style="float: left;">
 
 <div align="right" width="50%" style="float: right;">
   <h4>Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h4>
