@@ -19,31 +19,28 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight" width="100%"/>
 </div>
 
+<div align="right">
+  <h2>🌟 Passionate Junior Web Developer 🌟</h2>
+  <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
+</div>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbroome&layout=donut&theme=tokyonight&border_color=000" width="50%">
 </div>
 
 <div align="right" width="50%">
-  <h2>🌟 Passionate Junior Web Developer 🌟</h2>
-  <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
-  <br>
-  <br>
-  <h3>Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h3>
+  <h4>Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h4>
   <br>
   <p>💼 What I Do:</p>
-  <ul>
-    <li>✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.</li>
-    <li>✨ Breathing life into websites with interactive elements and seamless UX.</li>
-    <li>✨ Exploring the exciting possibilities of Evolution X to build innovative features that shine.</li>
-  </ul>
+    <p>✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.</p>
+    <p>✨ Breathing life into websites with interactive elements and seamless UX.</p>
+    <p>✨ Exploring the exciting possibilities of Evolution X to build innovative features that shine.</p>
   <br>
   <p>🌈 What Sets Me Apart:</p>
-  <ul>
-    <li>🚀 A genuine passion for web development and a solid foundation in JavaScript, HTML, and CSS.</li>
-    <li>🎨 Creativity that fuels my designs, making interfaces not only functional but visually enchanting.</li>
-    <li>💡 An insatiable thirst for learning, always eager to master new technologies and techniques.</li>
-    <li>🤝 Collaboration is my middle name—I thrive in team environments and love sharing my ideas to create web wonders.</li>
-  </ul>
-  <h2>🚀 Ready to craft the future of the web together? Let's connect and explore the endless possibilities!</h2>
-  <p>👩💻👨💻 #WebDeveloper #JavaScriptWizard #EvolutionXEnthusiast</p>
+    <p>🚀 A genuine passion for web development and a solid foundation in JavaScript, HTML, and CSS.</p>
+    <p>🎨 Creativity that fuels my designs, making interfaces not only functional but visually enchanting.</p>
+    <p>💡 An insatiable thirst for learning, always eager to master new technologies and techniques.</p>
+    <p>🤝 Collaboration is my middle name—I thrive in team environments and love sharing my ideas to create web wonders.</p>
+  <h3>🚀 Ready to craft the future of the web together? Let's connect and explore the endless possibilities!</h3>
+  <p>#WebDeveloper #JavaScriptWizard #EvolutionXEnthusiast</p>
 </div>
