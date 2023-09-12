@@ -19,7 +19,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbroome&theme=tokyonight" width="100%"/>
 </div>
 
-<div align="right">
+<div align="right" style="float: right;">
   <h2>🌟 Passionate Junior Web Developer 🌟</h2>
   <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
 </div>
