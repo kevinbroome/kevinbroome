@@ -22,6 +22,7 @@
 <div align="center">
   <h2>🌟 Passionate Junior Web Developer 🌟</h2>
   <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
+  <br>
 </div>
 
 <h4 align="left">Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h4>
