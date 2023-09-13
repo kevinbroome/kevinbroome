@@ -29,7 +29,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kevinbroome&show_icons=true&theme=radical" align="left" width="50%" style="float: left;">
 
 <div align="left">
-  <br>
   <p>💼 What I Do:</p>
     <p>✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.</p>
     <p>✨ Breathing life into websites with interactive elements and seamless UX.</p>
