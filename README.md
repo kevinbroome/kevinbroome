@@ -30,7 +30,6 @@
 
 <div align="left">
   <br>
-  <br>
   <p>💼 What I Do:</p>
     <p>✨ Transforming designs into pixel-perfection and responsive web pages that look stunning on any device.</p>
     <p>✨ Breathing life into websites with interactive elements and seamless UX.</p>
