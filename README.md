@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/affinitydesigner-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B"/>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white"/>
 </div>
