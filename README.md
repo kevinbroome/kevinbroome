@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/affinitydesigner-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B"/>
