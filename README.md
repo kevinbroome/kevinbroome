@@ -1,5 +1,5 @@
 <div  id="header" align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2040748740976150212/0B00949389889A7630D12BAAD84D976192951FEC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"/>
+  <iframe src="https://giphy.com/embed/k81NasbqkKA5HSyJxN" width="480" height="250" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 <div align="center">
