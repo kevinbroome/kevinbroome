@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h2>🌟 Passionate Junior Web Developer 🌟</h2>
+  <h2>🌟 Passionate Web Developer 🌟</h2>
   <p>JavaScript 🚀 HTML 🎨 CSS | Evolution X Enthusiast</p>
   <br>
 </div>
