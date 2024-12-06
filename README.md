@@ -25,7 +25,7 @@
   <br>
 </div>
 
-<h4 align="left">Welcome to my corner of the digital universe! I'm a budding Junior Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h4>
+<h4 align="left">Welcome to my corner of the digital universe! I'm a Web Developer with a knack for crafting captivating online experiences. My toolbox is filled with JavaScript, HTML, and CSS, and I'm thrilled to add a touch of magic with my expertise in the Evolution X platform.</h4>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kevinbroome&show_icons=true&theme=radical" align="left" width="50%" style="float: left;">
 
