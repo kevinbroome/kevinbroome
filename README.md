@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h2>I'm here to chew gum and build websites... and I'm all out of gum.</h2>
+  <h2>I'm here to chew gum and build websites...and I'm all outta gum.</h2>
   <p>Lead Developer • Software Engineer • EvolutionX Enthusiast</p>
 </div>
 
