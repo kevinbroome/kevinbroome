@@ -39,5 +39,5 @@ I streamline processes, reduce friction, and keep the team shipping smoothly.
 ---
 
 <div align="center">
-  <p>Building, refining and evolving the web — one feature at a time.</p>
+  <p>Building, refining and evolving the web<br>one feature at a time</p>
 </div>
